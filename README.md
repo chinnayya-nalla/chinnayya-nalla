@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    A Passionate <b>Programmer</b> and a <b>code Enthusiast </b>&nbsp; who believes in solving the  <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer, <b>Improving Skills</b> and <b>excelling</b> in the profession
+      🧑‍🔬 I'm a developer who has passion for building clean web applications with intutive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
   </em>  
 </p>
 
@@ -20,26 +20,11 @@
 - *Looking to collaborate* on **Open Source programs** 
 - *Always available* to *help*  **Learners**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
-- **Fun fact:** *More productive while listening Music* 🎧
-- 📫 How to reach: **chinnayya.nalla@gmail.com** 📧
 
 <p align="left">  </p>
 <br>
 
 ### Projects in Demand
-
-
-### Connect with me
-
-<p align="left">
-  <a href="mailto:chinnayya.nalla@gmail.com" target="blank">
-    Mail
-  </a>
-    
-  <a href="https://www.linkedin.com/in/chinnayyanaidu" target="blank"> 
-    LinkedIn
-  </a>
-</p>
 
 <br> <br>
 
