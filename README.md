@@ -13,15 +13,8 @@
   </em>  
 </p>
 
-<br>
-
-- 🔭 *Currently Working on* **Logistics Domain**
-- *Currently learning* **Enterprise Architecuture** 👨‍💻
-- *Looking to collaborate* on **Open Source programs** 
-- *Always available* to *help*  **Learners**
-- **Pronouns:** [*He/Him*](https://pronoun.is/he)
-
-<br> <br>
+### Interests
+Engineering Management | Cloud | Security | Enterprise Architecture | FOSS | Logistics Domain
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
