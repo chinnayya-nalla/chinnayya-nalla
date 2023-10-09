@@ -21,11 +21,6 @@
 - *Always available* to *help*  **Learners**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
 
-<p align="left">  </p>
-<br>
-
-### Projects in Demand
-
 <br> <br>
 
 ### Tech Stack
