@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-chinnayyanaidu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chinnayyanaidu/)
 [![Gmail](https://img.shields.io/badge/-chinnayya.nalla.careers@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chinnayya.nalla.careers@gmail.com)
 [![Blog](https://img.shields.io/badge/-chinnayyanalla-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/chinnayya-nalla)
-<img src="https://komarev.com/ghpvc/?username=chinnayya-nalla&label=Nice_To_Meet_U!_You+are+my+visitor+No&color=0e75b6&style=flat" alt="chinnayya-nalla" />
 
 <p>
   <em>
